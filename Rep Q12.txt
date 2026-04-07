@@ -1,0 +1,1 @@
+Pour ma notre nouvelle conception nous avons donc créer une interface permettant de créer autant d'appareil que je veux et de ne pas avoir à recrée a chaque fois des méthodes supplémentaire il y a juste a réécrire l'intérieur. permettant une optimisation et une meilleurs reprise pour les développeurs qui travaillerait avec nous et qui devrai ajouter des nouveaux appareils.
